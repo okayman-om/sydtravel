@@ -29,7 +29,7 @@ body {
 
 .navigation {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     gap: 2rem;
     padding-top: 2rem;
     padding-bottom: 2rem;
