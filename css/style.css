@@ -52,6 +52,15 @@ body {
     color: var(--primary-color);
 }
 
+.hero-content {
+    width: 65%;
+}
+
 .colorful {
     color: var(--primary-color);
 }
+
+.c-name {
+    padding-bottom: 2rem;
+}
+
