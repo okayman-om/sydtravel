@@ -96,6 +96,7 @@ body {
   background: #ffffff;
   height: 50vh;
   width: 100vw;
+  max-width: 100%;
   justify-content: center;
   text-align: center;
   align-items: center;
