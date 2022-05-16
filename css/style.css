@@ -98,6 +98,9 @@ body {
   text-align: center;
   align-items: center;
   line-height: 2rem;
-  gap: 3rem;
+
 }
 
+.mid-content h3, p {
+    padding-bottom: 3rem;
+}
