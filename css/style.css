@@ -54,6 +54,7 @@ body {
 
 .hero-content {
     width: 65%;
+    padding-left: 2rem;
 }
 
 .colorful {
@@ -62,5 +63,9 @@ body {
 
 .c-name {
     padding-bottom: 2rem;
+}
+
+.c-subtext {
+    max-width: 650px;
 }
 
