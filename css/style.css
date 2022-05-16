@@ -15,6 +15,11 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
+.container {
+    width: 85%;
+    margin: auto;
+}
+
 .hero {
     background: url(../images/bg-hero.jpg);
     height: 100vh;
