@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
 
+:root {
+    --primary-color: purple;
+}
+
+
 * {
     padding: 0;
     margin: 0;
@@ -33,6 +38,7 @@ body {
     gap: 2rem;
     padding-top: 2rem;
     padding-bottom: 2rem;
+    justify-content: center;
 }
 
 .navigation a {
@@ -40,5 +46,9 @@ body {
 }
 
 .navigation a:hover {
-    color: purple;
+    color: var(--primary-color);
+}
+
+.colorful {
+    color: var(--primary-color);
 }
