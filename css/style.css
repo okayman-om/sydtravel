@@ -92,7 +92,7 @@ body {
 .mid-content {
   display: flex;
   background: #ffffff;
-  height: 100vh;
+  height: 50vh;
   width: 100vw;
   justify-content: center;
   text-align: center;
