@@ -30,3 +30,7 @@ body {
 .navigation a {
     color: #000;
 }
+
+.navigation a:hover {
+    color: purple;
+}
